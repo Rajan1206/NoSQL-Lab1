@@ -7,6 +7,6 @@ Purpose of this lab is to write Map Reduce programs and run on single node clust
 
 **Question-3**  :  Input File contain web access log produced by a web server and Map Reduce program return numbers of times client accessed GIF,JPG and other image file.
 
-**Question-4** :   For the same input file, Map Reduce program return Total number of request and Total download size on  monthaly basis
+**Question-4** :   For the same input file, Map Reduce program return Total number of request and Total download size on  monthly basis.
 
 **Question-5** :   For the same input file, Map Reduce program return list of Timestamp and URL for which response status has been 404.
