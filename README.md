@@ -1,7 +1,7 @@
 
 # NoSql Lab1
 
-Purpose of this lab is to write Map Reduce programs and run on single node Hadoop cluster.
+Purpose of this lab is to write Map Reduce programs and run on single node cluster Hadoop.
 
 **Question-2**  :  Input file contain NCDC weather data and program returns yearly the Maximum Temperature recorded.
 
